@@ -7,11 +7,10 @@ Este repositório contém uma coleção de projetos desenvolvidos para a discipl
 
 1.  **[Convolução de Reverb em MATLAB](./01-Convolucao-Reverb)**: Aplicação do efeito de reverberação de um ambiente em um sinal de voz através da convolução com uma resposta ao impulso.
 
-2.  **[Projeto e Aplicação de Filtro FIR em MATLAB](./02-Filtro-FIR-MATLAB/)**: Geração de um sinal ruidoso e aplicação de um filtro FIR rejeita-faixa para remover o ruído.
 
-3.  **[Filtragem FIR em Python](./03-Filtro-FIR-Python/)**: Implementação de um filtro FIR passa-baixas em Python para remover ruído de alta frequência de um sinal, utilizando as bibliotecas `SciPy` e `NumPy`.
+2.  **[Filtragem FIR em Python](./03-Filtro-FIR-Python/)**: Implementação de um filtro FIR passa-baixas em Python para remover ruído de alta frequência de um sinal, utilizando as bibliotecas `SciPy` e `NumPy`.
 
-4.  **[Filtragem IIR em python](./04-Filtro-IIR-Python/)**: Implementação de um filtro FIR passa-baixas em Python para remover ruído de alta frequência de um sinal.
+3.  **[Filtragem IIR em python](./04-Filtro-IIR-Python/)**: Implementação de um filtro FIR passa-baixas em Python para remover ruído de alta frequência de um sinal.
 ## Tecnologias Utilizadas
 
 * MATLAB
